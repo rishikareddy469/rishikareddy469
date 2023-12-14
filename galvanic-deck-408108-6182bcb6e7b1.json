@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "galvanic-deck-408108",
+  "private_key_id": "6182bcb6e7b15413e39887e33710ed8377617d5d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCJZPEf2fgIdJ82\npTufTDm3m2mjHhrcYtoW7SDxznzK9rY7WGyvMPXmf/EffSg1xjk5ctYeDaMb1AjG\n21xMWkOrhFZmcYpfnCjna7SVtXr03X/vM7ddabNMsaues9pTgNSG/JF9Ta5kzzhY\n+dyEgI4NDDqSyN32YtMyOBQ+0kMwJFz6jTPMmz5b9JCCD+VGtI0+T6v6DZrTVU3x\nEmrGVn/MNZrnSuUw5dURGyPLbVQe8BdQkg/WFj/fNC2VziiII315uEssNhGJ63ZH\n/hDHQlhQqUQ8NNuhIZv4Q+CZc8UzVhb9+Dt0Y+aSTbOSP1CwESIDhQA40Jawl/ZF\nWTI3S76TAgMBAAECggEACyfO1ihjVa3BEaBH34QXuZsyRWQX3TtffCC5HeOx8+Ql\nNrCpc8Nfa92JLTvYbHP8SHhU/0VZ2tQT+bAXkJF8UMGi0Zg4Gnw6QVQC6mw89Vhu\nCfTNLMCne2YqSkKjIEg5DqlqLLOGdzlGA3TCHWC3Z+14F1vyKGOsxIqTcOhZ5oom\n19bzncv8zuhSDwrS+L8GGmNjqKP+G9c95N9OWSSxO1KLnGanlwB+RWjEzIcgyRhC\nv/Bg9NOiIwkMhLbcRX3dosA0rTjTtDYZertA89LkVs1mKN+5J1liSyui/c00fHJp\nOLbZMXXx4WyQYCU9JXsD+WKOd242PDt7KLj/L06CXQKBgQC8lLAkJNu2z5IQ/zX9\n9aMUoe22igWYuV3llxEtn/7bT9TKJPd9EO8uk7i6N4ZWoNeDjcTorHajI1raSh0L\ngNa6xGvnmaeSo1YwmXM85gOjeAUuIP65/3oEureeCmIyJVVqfwdIxMr4YymnJ7Xt\n6hbbUTZt5t/1RL8uJsXki0Et1wKBgQC6g46ezUjo62dBKuFP0t5akALDaPnV/ih+\nCRtPz471bgc0zEF2VXEFOPp8PwAIRDWw6fLR5vib6GXLlNk6xoV/+W/8Uw00TgEk\nIBgZ4kNC0RmvN+464raYGpFDffCtdasFt6a2CWdUMO5626lGzZI5l2VkB/ZvkwF4\nxMVj3jwFpQKBgEPQ9McKujizzMNwA+qgO1VgJixO1lRl1O6LtRHDR9N2kf9f6+B+\nBoWpefT9osHkdZxJj1ZdLwzb2gBGRsusOYxQtr1C9JA3TPeNN3PfA8/1iWddVj1t\nMmQhAYdEFKwT4PO7WtNAcf2BK6mBDlvQoweb3QcIz+FUJ6xhJSlbKsVhAoGAWCiQ\nxAziNn32Oz5Ka1GPmhzRwY2f8X8ForUpPKsttmJAc7tMAePW3RIWi523pTCgdDPQ\ne1iCECdj3jtIBlkJhvje7tROvHdWYL3uxmVFR5LQYhq8twasKe781Hr1xPeGU9h/\nqzF8rrXGMzoapAXM5P3jhcmhuREyM+RGLLNBiaUCgYBj8vD2/w0msW0UzcK/+GOt\nyp5op6rvuYmQahP38ubDGXVT6roDXtBnZ2+1DGqZ9RRYMEHZi9nnvQwUbtsr9QAD\ndnwgx8AThcNdBBLPtZ1Tud4FIq5vqyJtRiLa+L7/cSzzwEVdhuM0+TJKWlRMqn3x\nCl8W9U9j3ZISxVio77Zh3A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "speechtotext@galvanic-deck-408108.iam.gserviceaccount.com",
+  "client_id": "110372442021828668142",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speechtotext%40galvanic-deck-408108.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
